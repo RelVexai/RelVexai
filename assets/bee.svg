@@ -1,0 +1,7 @@
+<svg width="90" height="70" viewBox="0 0 90 70" xmlns="http://www.w3.org/2000/svg">
+<style>.bee{animation:fly 2.8s ease-in-out infinite}@keyframes fly{0%,100%{transform:translate(0,0)}50%{transform:translate(5px,-4px)}}</style>
+<g class="bee" shape-rendering="crispEdges">
+<rect x="28" y="12" width="18" height="8" fill="#DBE7C9"/><rect x="42" y="20" width="20" height="8" fill="#789461"/>
+<rect x="27" y="27" width="38" height="25" fill="#50623A"/><rect x="35" y="27" width="7" height="25" fill="#DBE7C9"/><rect x="50" y="27" width="7" height="25" fill="#DBE7C9"/>
+<rect x="19" y="31" width="12" height="17" fill="#294B29"/><rect x="20" y="23" width="4" height="8" fill="#294B29"/><rect x="28" y="22" width="4" height="9" fill="#294B29"/><rect x="31" y="52" width="5" height="9" fill="#294B29"/><rect x="52" y="52" width="5" height="9" fill="#294B29"/>
+</g></svg>

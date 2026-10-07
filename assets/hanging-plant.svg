@@ -1,0 +1,8 @@
+<svg width="140" height="170" viewBox="0 0 140 170" xmlns="http://www.w3.org/2000/svg">
+<style>.leaves{transform-box:fill-box;transform-origin:top center;animation:hang 4s ease-in-out infinite}@keyframes hang{0%,100%{transform:rotate(-2deg)}50%{transform:rotate(3deg)}}</style>
+<g shape-rendering="crispEdges">
+<rect x="65" y="0" width="5" height="45" fill="#294B29"/><rect x="42" y="38" width="52" height="9" fill="#294B29"/><rect x="48" y="47" width="40" height="22" fill="#50623A"/><rect x="53" y="69" width="30" height="5" fill="#294B29"/>
+<g class="leaves">
+<rect x="54" y="68" width="5" height="65" fill="#50623A"/><rect x="78" y="68" width="5" height="48" fill="#50623A"/><rect x="65" y="68" width="5" height="78" fill="#789461"/>
+<rect x="39" y="84" width="20" height="9" fill="#789461"/><rect x="35" y="93" width="24" height="9" fill="#50623A"/><rect x="78" y="98" width="22" height="9" fill="#789461"/><rect x="78" y="107" width="18" height="9" fill="#50623A"/><rect x="54" y="119" width="20" height="9" fill="#789461"/><rect x="49" y="128" width="25" height="9" fill="#50623A"/>
+</g></g></svg>

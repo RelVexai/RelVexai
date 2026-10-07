@@ -1,0 +1,9 @@
+<svg width="160" height="160" viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg">
+<style>.plant{transform-box:fill-box;transform-origin:bottom center;animation:sway 3.8s ease-in-out infinite}@keyframes sway{0%,100%{transform:rotate(-2deg)}50%{transform:rotate(3deg)}}</style>
+<g class="plant" shape-rendering="crispEdges">
+<rect x="52" y="112" width="56" height="12" fill="#294B29"/><rect x="58" y="124" width="44" height="18" fill="#50623A"/><rect x="64" y="142" width="32" height="5" fill="#294B29"/>
+<rect x="78" y="55" width="6" height="60" fill="#50623A"/>
+<rect x="48" y="55" width="30" height="8" fill="#789461"/><rect x="42" y="63" width="36" height="12" fill="#789461"/><rect x="48" y="75" width="30" height="8" fill="#50623A"/><rect x="60" y="83" width="18" height="7" fill="#50623A"/>
+<rect x="84" y="45" width="26" height="8" fill="#789461"/><rect x="90" y="53" width="34" height="12" fill="#789461"/><rect x="96" y="65" width="28" height="9" fill="#50623A"/><rect x="84" y="74" width="24" height="8" fill="#50623A"/>
+<rect x="73" y="28" width="12" height="28" fill="#50623A"/><rect x="61" y="34" width="18" height="12" fill="#789461"/><rect x="85" y="34" width="18" height="12" fill="#789461"/>
+</g></svg>

@@ -1,0 +1,6 @@
+<svg width="90" height="100" viewBox="0 0 90 100" xmlns="http://www.w3.org/2000/svg">
+<style>.grow{transform-box:fill-box;transform-origin:bottom center;animation:grow 3s ease-in-out infinite}@keyframes grow{0%,100%{transform:scaleY(.96)}50%{transform:scaleY(1.04)}}</style>
+<g class="grow" shape-rendering="crispEdges">
+<rect x="27" y="72" width="36" height="10" fill="#294B29"/><rect x="32" y="82" width="26" height="12" fill="#50623A"/><rect x="43" y="34" width="6" height="40" fill="#50623A"/>
+<rect x="25" y="42" width="22" height="10" fill="#789461"/><rect x="17" y="52" width="30" height="11" fill="#50623A"/><rect x="49" y="28" width="22" height="10" fill="#789461"/><rect x="49" y="38" width="29" height="12" fill="#789461"/><rect x="49" y="50" width="20" height="10" fill="#50623A"/>
+</g></svg>
