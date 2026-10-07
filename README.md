@@ -1,6 +1,14 @@
 <div align="center">
 
-<br>
+<img src="assets/construction.svg" width="32" valign="middle">
+&nbsp;&nbsp;
+<b>CURRENTLY UNDER CONSTRUCTION</b>
+&nbsp;&nbsp;
+<img src="assets/construction.svg" width="32" valign="middle">
+
+<br><br>
+
+<!-- HERO STARTS HERE -->
 
 <img src="assets/plant-left.svg" width="95" align="middle">
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -12,9 +20,9 @@
 
 <br>
 
-<h2>building things somewhere between data, code and the real world</h2>
+<h2>making code leave the screen</h2>
 
-<br>
+</div>
 
 <img src="assets/sprout.svg" width="42">
 &nbsp;&nbsp;
