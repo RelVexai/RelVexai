@@ -48,7 +48,7 @@ My background is in bioinformatics, but I tend to enjoy the parts where differen
 
 <br><br>
 
-<sub>probably another plant</sub>
+<sub>this one won't die</sub>
 
 </td>
 </tr>
