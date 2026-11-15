@@ -1,274 +1,120 @@
 <div align="center">
 
-<img src="assets/construction.svg" width="32" valign="middle">
-&nbsp;&nbsp;
-<b>CURRENTLY UNDER CONSTRUCTION</b>
-&nbsp;&nbsp;
-<img src="assets/construction.svg" width="32" valign="middle">
+# Wiktoria Kowalska
 
-<br><br>
+**Bioinformatics MSc student • Data Analyst • Python & R**
 
-<!-- HERO STARTS HERE -->
+![Location](https://img.shields.io/badge/Location-Poland-0d1117?style=flat-square&labelColor=161b22)
+[![GitHub](https://img.shields.io/badge/GitHub-RelVexai-0d1117?style=flat-square&logo=github&labelColor=161b22)](https://github.com/RelVexai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wiktoria%20Kowalska-0d1117?style=flat-square&logo=linkedin&labelColor=161b22)](https://www.linkedin.com/in/wiktoria-kowalska-1984693b1/)
 
-<img src="assets/plant-left.svg" width="95" align="middle">
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/plant-right.svg" width="95" align="middle">
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=34&duration=2600&pause=1000&color=294B29&center=true&vCenter=true&width=760&height=65&lines=Wiktoria+Kowalska;data+%C3%97+code;biological+data;machine+learning;NGS+%26+sequence+analysis;databases" alt="Wiktoria Kowalska">
-
-<br>
-
-<h2>making code leave the screen</h2>
-
-</div>
-
-<img src="assets/sprout.svg" width="42">
-&nbsp;&nbsp;
-<img src="assets/flower.svg" width="38">
-&nbsp;&nbsp;
-<img src="assets/sprout.svg" width="42">
-
-<br><br>
+Open to data analysis and bioinformatics roles and internships.
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="68%" valign="top">
+# Tech Stack
 
-## hi, I'm Wiktoria
+**Languages**
 
-BSc graduate and currently doing my MSc.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-E48E00?style=flat-square&logoColor=white)
 
-I like working with data, building things with code and figuring out what can actually be done with a dataset once you stop treating it like a perfectly behaved tutorial example.
+**Python packages**
 
-My background is in bioinformatics, but I tend to enjoy the parts where different fields start overlapping rather than staying neatly inside one box.
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![librosa](https://img.shields.io/badge/librosa-3776AB?style=flat-square&logo=python&logoColor=white)
+![matplotlib](https://img.shields.io/badge/matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![seaborn](https://img.shields.io/badge/seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![statsmodels](https://img.shields.io/badge/statsmodels-3776AB?style=flat-square&logo=python&logoColor=white)
+![soundfile](https://img.shields.io/badge/soundfile-3776AB?style=flat-square&logo=python&logoColor=white)
+![tqdm](https://img.shields.io/badge/tqdm-FFC107?style=flat-square&logo=python&logoColor=black)
 
-</td>
+**R packages**
 
-<td width="32%" align="center" valign="middle">
+![dplyr](https://img.shields.io/badge/dplyr-276DC3?style=flat-square&logo=r&logoColor=white)
+![data.table](https://img.shields.io/badge/data.table-276DC3?style=flat-square&logo=r&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=flat-square&logo=r&logoColor=white)
+![pROC](https://img.shields.io/badge/pROC-276DC3?style=flat-square&logo=r&logoColor=white)
+![corrplot](https://img.shields.io/badge/corrplot-276DC3?style=flat-square&logo=r&logoColor=white)
+![ucimlrepo](https://img.shields.io/badge/ucimlrepo-276DC3?style=flat-square&logo=r&logoColor=white)
+![DESeq2](https://img.shields.io/badge/DESeq2-276DC3?style=flat-square&logo=r&logoColor=white)
+![tximport](https://img.shields.io/badge/tximport-276DC3?style=flat-square&logo=r&logoColor=white)
+![forecast](https://img.shields.io/badge/forecast-276DC3?style=flat-square&logo=r&logoColor=white)
+![tempdisagg](https://img.shields.io/badge/tempdisagg-276DC3?style=flat-square&logo=r&logoColor=white)
+![tidyverse](https://img.shields.io/badge/tidyverse-276DC3?style=flat-square&logo=r&logoColor=white)
+![randomForest](https://img.shields.io/badge/randomForest-276DC3?style=flat-square&logo=r&logoColor=white)
+![survival](https://img.shields.io/badge/survival-276DC3?style=flat-square&logo=r&logoColor=white)
+![survminer](https://img.shields.io/badge/survminer-276DC3?style=flat-square&logo=r&logoColor=white)
+![R Markdown](https://img.shields.io/badge/R%20Markdown-276DC3?style=flat-square&logo=r&logoColor=white)
+![Shiny](https://img.shields.io/badge/Shiny-276DC3?style=flat-square&logo=r&logoColor=white)
 
-<img src="assets/potted-plant.svg" width="150">
+**Databases**
 
-<br><br>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-<sub>this one won't die</sub>
+**Bioinformatics**
 
-</td>
-</tr>
-</table>
+![Bioconductor](https://img.shields.io/badge/Bioconductor-0F766E?style=flat-square&logoColor=white)
+![FastQC](https://img.shields.io/badge/FastQC-0F766E?style=flat-square&logoColor=white)
+![MultiQC](https://img.shields.io/badge/MultiQC-0F766E?style=flat-square&logoColor=white)
+![Trimmomatic](https://img.shields.io/badge/Trimmomatic-0F766E?style=flat-square&logoColor=white)
+![Salmon](https://img.shields.io/badge/Salmon-0F766E?style=flat-square&logoColor=white)
+![samtools](https://img.shields.io/badge/samtools-0F766E?style=flat-square&logoColor=white)
+![bedtools](https://img.shields.io/badge/bedtools-0F766E?style=flat-square&logoColor=white)
+![modkit](https://img.shields.io/badge/modkit-0F766E?style=flat-square&logoColor=white)
+![dorado](https://img.shields.io/badge/dorado-0F766E?style=flat-square&logoColor=white)
+![bgzip](https://img.shields.io/badge/bgzip-0F766E?style=flat-square&logoColor=white)
+![tabix](https://img.shields.io/badge/tabix-0F766E?style=flat-square&logoColor=white)
+![g:Profiler](https://img.shields.io/badge/g%3AProfiler-0F766E?style=flat-square&logoColor=white)
+![ShinyGO](https://img.shields.io/badge/ShinyGO-0F766E?style=flat-square&logoColor=white)
+![KOBAS](https://img.shields.io/badge/KOBAS-0F766E?style=flat-square&logoColor=white)
 
----
+**Tools & Cloud**
 
-## what I use
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-<table>
-<tr>
-<td width="33%" valign="top">
+**Getting started with**
 
-### languages
-
-`Python`  
-`R`  
-`SQL`  
-`Bash`
-
-</td>
-
-<td width="33%" valign="top">
-
-### data & ML
-
-`Pandas`  
-`NumPy`  
-`Matplotlib`  
-`Scikit-learn`  
-`TensorFlow`  
-`Librosa`
-
-</td>
-
-<td width="33%" valign="top">
-
-### tools
-
-`Git`  
-`GitHub`  
-`Jupyter`  
-`Linux`
-
-</td>
-</tr>
-</table>
-
----
-
-## projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🐝 Queen Bee Classification
-
-My engineering thesis.
-
-I worked with around **7,100 one-minute audio recordings** from beehives and used machine learning to classify whether a queen bee was present.
-
-```text
-audio
- ↓
-preprocessing
- ↓
-features
- ↓
-Mel-spectrograms
- ↓
-model
- ↓
-classification
-```
-
-**Python · TensorFlow · Librosa · Pandas**
-
-[→ repository](https://github.com/YOUR_USERNAME/YOUR_BEE_REPOSITORY)
-
-<br>
-
-<img src="assets/bee.svg" width="55">
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌱 Soil Moisture Monitor
-
-Current side project.
-
-I have around **40 houseplants**, and apparently trusting myself to notice when they need water is not a sufficiently robust monitoring system.
-
-So I'm building one.
-
-```text
-soil
- ↓
-sensor
- ↓
-measurements
- ↓
-storage
- ↓
-analysis
-```
-
-The goal is to turn *"this plant looks weird"* into actual data.
-
-**Python · sensors · data · visualisation**
-
-[→ repository](https://github.com/YOUR_USERNAME/YOUR_PLANT_REPOSITORY)
-
-<br>
-
-<img src="assets/growing-plant.svg" width="65">
-
-</td>
-
-</tr>
-</table>
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 ---
 
-<div align="center">
+# Education
 
-<img src="assets/vine-divider.svg" width="600">
+**MSc Bioinformatics**, Wrocław University of Environmental and Life Sciences, defence planned June/July 2027. Thesis: hive microclimate and the acoustic activity of the colony (PostgreSQL).
 
-</div>
-
-## education
-
-**MSc · Bioinformatics**  
-currently studying
-
-**BSc · Bioinformatics**  
-completed
-
-<br>
-
-<table>
-<tr>
-<td width="75%" valign="top">
-
-### currently
-
-Working on my Master's and a few projects that happen to sit somewhere around:
-
-`data` · `code` · `biology` · `sensors` · `machine learning` · `databases`
-
-I tend to enjoy projects more when the boundaries between those things start getting blurry.
-
-</td>
-
-<td width="25%" align="center">
-
-<img src="assets/hanging-plant.svg" width="120">
-
-</td>
-</tr>
-</table>
+**BEng Bioinformatics**, same university, 2022-2026.
 
 ---
 
-<div align="center">
+# Certificates
 
-<h2>mostly making things, occasionally breaking them, usually figuring out why</h2>
+**Dataquest**, 2024: Introduction to SQL and Databases (March), Filtering and Sorting Data in SQL (March), Summarizing Data in SQL (April), Combining Tables in SQL (May), SQL Fundamentals (May).
 
-<br>
+**DataCamp**, 2026: Intermediate Python (July).
 
-<a href="https://www.linkedin.com/in/YOUR_USERNAME/">
-  <img src="https://img.shields.io/badge/LinkedIn-294B29?style=for-the-badge&logo=linkedin&logoColor=DBE7C9">
-</a>
+**Microsoft PL-300T00-A**, Power BI Data Analyst: course completed.
 
-<br><br>
+---
 
-<img src="assets/flower.svg" width="35">
-&nbsp;&nbsp;&nbsp;
-<img src="assets/sprout.svg" width="40">
-&nbsp;&nbsp;&nbsp;
-<img src="assets/flower.svg" width="35">
+# Languages
 
-</div>
-
-<br>
-
-<details>
-<summary>you probably shouldn't click this</summary>
-
-<br>
-
-```text
-┌──────────────────────────────────────┐
-│             SIMS_SAVE.log            │
-├──────────────────────────────────────┤
-│                                      │
-│ household funds ............. 20,000 │
-│                                      │
-│ financial strategy:                  │
-│                                      │
-│              motherlode              │
-│                                      │
-│ objective:                           │
-│ let the Sims live the life           │
-│ I refuse to fund in real life        │
-│                                      │
-│ survival probability ........ 100%   │
-│ rice + ketchup .............. 0%     │
-│                                      │
-└──────────────────────────────────────┘
-```
-
-</details>
+Polish (native), English (B2).
