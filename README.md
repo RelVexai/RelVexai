@@ -43,6 +43,7 @@ Open to data analysis and bioinformatics roles and internships.
 
 ![dplyr](https://img.shields.io/badge/dplyr-276DC3?style=flat-square&logo=r&logoColor=white)
 ![data.table](https://img.shields.io/badge/data.table-276DC3?style=flat-square&logo=r&logoColor=white)
+![matplotlib](https://img.shields.io/badge/matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
 ![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=flat-square&logo=r&logoColor=white)
 ![pROC](https://img.shields.io/badge/pROC-276DC3?style=flat-square&logo=r&logoColor=white)
 ![corrplot](https://img.shields.io/badge/corrplot-276DC3?style=flat-square&logo=r&logoColor=white)
@@ -94,6 +95,11 @@ Open to data analysis and bioinformatics roles and internships.
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-355570?style=flat-square&logo=godotengine&logoColor=white)
+![Biopython](https://img.shields.io/badge/Biopython-3776AB?style=flat-square&logo=python&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
